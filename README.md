@@ -10,7 +10,7 @@ Get your first AI skill running in 30 seconds:
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/android-ai-skills
+git clone https://github.com/sumitbhondave/android-ai-skills
 cd android-ai-skills
 
 # 2. Install the review-pr skill
