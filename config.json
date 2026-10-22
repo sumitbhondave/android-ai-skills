@@ -1,0 +1,35 @@
+{
+  "settings": {
+    "watermark": "🤖 Auto-reviewed by the ai-skills library",
+    "default_profile": "default",
+    "log_level": "INFO"
+  },
+  "profiles": {
+    "default": {
+      "description": "Comprehensive audit across all categories",
+      "focus": [
+        "bugs",
+        "security",
+        "performance",
+        "concurrency",
+        "quality"
+      ]
+    },
+    "security": {
+      "description": "Deep focus on OWASP and security vulnerabilities",
+      "focus": [
+        "security",
+        "secret-leaks",
+        "injection"
+      ]
+    },
+    "performance": {
+      "description": "Optimization and resource management focus",
+      "focus": [
+        "performance",
+        "memory",
+        "latency"
+      ]
+    }
+  }
+}

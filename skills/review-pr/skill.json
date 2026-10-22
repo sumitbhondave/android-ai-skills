@@ -1,0 +1,22 @@
+{
+  "name": "review-pr",
+  "version": "1.0.0",
+  "type": "prompt",
+  "invocation": {
+    "command": "/review-pr",
+    "aliases": [
+      "/pr-review",
+      "/code-review"
+    ]
+  },
+  "parameters": {
+    "pr": {
+      "type": "string",
+      "required": true,
+      "description": "PR number, URL, or path to a .diff file"
+    }
+  },
+  "env": {
+    "GH_TOKEN": "Optional; prefers gh CLI keyring"
+  }
+}

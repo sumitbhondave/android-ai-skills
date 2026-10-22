@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Backups created by install.py
+*.bak
+
+# OS Metadata
+.DS_Store
+Thumbs.db
+
+# Local Test files
+test_temp.txt
+
+# Secrets
+.env
+*.key
+*.gpg

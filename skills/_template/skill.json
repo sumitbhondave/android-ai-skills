@@ -1,0 +1,11 @@
+{
+  "name": "{{SKILL_NAME}}",
+  "version": "{{VERSION}}",
+  "type": "prompt",
+  "invocation": {
+    "command": "{{COMMAND}}",
+    "aliases": {{ALIASES}}
+  },
+  "parameters": {},
+  "env": {}
+}
