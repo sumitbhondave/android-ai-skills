@@ -1,5 +1,5 @@
 2b3b95fc45794b3186f6ca05d7dddf37b3c245668bb4921cdaaf215a45d1b828  skills/review-pr/GEMINI.md
 324bc4ee3aaf0ea295c37a3b095d465b87323f3c796d0a02c242a14ea406478f  skills/review-pr/README.md
 837019a19d86fa75a6de2c136b591e1db884690e126769723c9ec7d7a5e8798c  skills/review-pr/SKILL.md
-e7ec33659d1f964ac575586b481afec8d9458bf9b43e5ab9b57054d90ede4d4e  skills/review-pr/command.md
+679cd80be141c33992c5991669b5affdc5f6ebf32c36c785d0c5dc49573d74d7  skills/review-pr/command.md
 6fde1027b31eda2aadb569e354976c8130b825d985ecaf14b656459eaf04ea19  skills/review-pr/skill.json

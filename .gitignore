@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# IDE & Editor files
+.idea/
+.vscode/
+
 # Backups created by install.py
 *.bak
 
